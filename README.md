@@ -59,14 +59,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300px" />
   <br>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke" />
 </div>
 
 ---
-
-<!-- 👀 Contador de visitas -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=anioldev&icon=3&color=6" alt="visit count"/>
-</div>
-
 
