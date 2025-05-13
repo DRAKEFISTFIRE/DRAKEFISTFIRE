@@ -39,7 +39,7 @@
 ## 🛠️ Tecnologías que manejo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,mongodb,flutter,git,github,vscode,linux,windows&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,mongodb,flutter,mysql,git,github,vscode,linux,windows&perline=8" />
 </p>
 
 ---
