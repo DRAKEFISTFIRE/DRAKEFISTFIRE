@@ -37,29 +37,41 @@
 
 ---
 
-<!-- 🛠️ Skills -->
-<h2 align="center">⚙️ Tecnologías que manejo ⚙️</h2>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+  <i><b>GitHub Stats</b></i>
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAKEFISTFIRE&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKEFISTFIRE&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+## 🚀 Actualmente
+
+- 🔭 Trabajando en la web de **la Colla Gegantera del Cor de Maria**.
+- 🌱 Aprendiendo **Flutter** y subiendo proyectos a GitHub.
+- ⚙️ Probando integraciones backend con **Node + MongoDB**.
+
+## 🛠️ Tecnologías que manejo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,mongodb,flutter,git,github,vscode,linux,windows&perline=8" />
 </p>
 
----
+## 📚 Proyectos
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
-  <i><b>GitHub Stats</b></i>
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
-</h2>
+### 🎮 **Roll a Ball** - [Repositorio](https://github.com/DRAKEFISTFIRE/Roll-a-Ball)
+Un divertido juego 3D hecho con Unity. Explora la física de un juego básico mientras aprendes a manejar la física de la bola en un entorno 3D.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anioldev&show_icons=true&theme=radical" alt="anioldev GitHub Stats" width="450"/>
-</p>
+### 🌐 **Colla Gegantera Web** - [Repositorio](https://github.com/DRAKEFISTFIRE/Colla-gegantera-web-project)
+Una página web para una **colla gegantera** (grupo tradicional de Cataluña). Proyecto que utiliza tecnologías como **React**, **Node.js** y **MongoDB** para el desarrollo.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anioldev&layout=compact&theme=radical" alt="anioldev Top Languages" width="350"/>
-</p>
-
+## 📞 Conecta conmigo
 ---
 
 <!-- 📞 Contacto -->
