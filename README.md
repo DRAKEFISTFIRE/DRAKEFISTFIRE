@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
   <br>
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FCA311&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!;Estudiante+web+y+mobile;Front+for+All,+All+for+Back" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FCA311&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!;Estudiante+web;Front+for+All,+All+for+Back" alt="Typing SVG" />
 </div>
 
 
