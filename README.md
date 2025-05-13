@@ -70,9 +70,11 @@
 ## 📚 Proyectos
 
 ### 🎮 **Roll a Ball** - [Repositorio](https://github.com/DRAKEFISTFIRE/Roll-a-Ball)
+
 Un divertido juego 3D hecho con Unity. Explora la física de un juego básico mientras aprendes a manejar la física de la bola en un entorno 3D.
 
 ### 🌐 **Colla Gegantera Web** - [Repositorio](https://github.com/DRAKEFISTFIRE/Colla-gegantera-web-project)
+
 Una página web para una **colla gegantera**. Proyecto avanzado que utiliza tecnologías como **React**, **Node.js** y **MongoDB** para el desarrollo web.
 
 ---
@@ -80,8 +82,12 @@ Una página web para una **colla gegantera**. Proyecto avanzado que utiliza tecn
 ## 📞 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aniol-rodriguez-530514295/">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="40px">
+  <a href="https://www.linkedin.com/in/aniol-rodriguez-530514295/" target="_blank">
+    <button style="background-color: #0077b5; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; border: none;">Conecta conmigo en LinkedIn</button>
+  </a>
+  <br><br>
+  <a href="mailto:aniol@example.com" target="_blank">
+    <button style="background-color: #fca311; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; border: none;">Envíame un correo</button>
   </a>
 </p>
 
@@ -92,4 +98,3 @@ Una página web para una **colla gegantera**. Proyecto avanzado que utiliza tecn
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300px" />
   <br>
 </div>
-
