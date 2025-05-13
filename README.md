@@ -30,7 +30,7 @@
 ## 🚀 Actualmente
 
 - 🔭 Trabajando en la web de **la Colla Gegantera del Cor de Maria**.
-- 🌱 Aprendiendo **Flutter** y subiendo proyectos a GitHub.
+- 🌱 Haciendo cursos online de diferentes lenguajes para aprender mucho más.
 - ⚙️ Probando integraciones backend con **Node + MongoDB**.
 
 ---
