@@ -1,4 +1,5 @@
 <!-- 📌 Presentación de Aniol -->
+![desarrollo](https://github.com/user-attachments/assets/35847bfb-5691-42f1-872a-7caa712a78b7)
 
 <div id="user-content-toc">
   <ul align="center">
@@ -19,12 +20,23 @@
 </div>
 
 <!-- Sobre mí -->
-- 🎓 Estudiante apasionado por el mundo web y mobile.
+- 🎓 Estudiante apasionado por el desarrollo web y mobile.
 - 💾 Me gusta cacharrear con **MongoDB, React, Node.js, MySQL y PHP**.
 - 📱 También me mola **Flutter** para apps móviles.
-- 📚 Siempre aprendiendo cosas nuevas y probando stacks locos.
-- 🎨 Me flipa la idea de crear apps que funcionen bien y se vean top.
+- 📚 Siempre aprendiendo cosas nuevas y montando stacks locos.
+- 🎨 Me flipa crear apps que funcionen bien y se vean top.
 - 📫 Si quieres charlar o colaborar: **aniol.dev@gmail.com**
+
+<!-- Qué estoy haciendo -->
+### 🚀 Actualmente
+- 🔭 Trabajando en proyectos con **React, Node.js y MongoDB**
+- 🌱 Aprendiendo a integrar **Flutter** con backend en Node
+- ☁️ Explorando servicios en **AWS** y **Render**
+
+### 💬 Pregúntame sobre
+- React, Node, PHP, MongoDB, Flutter  
+- Deploy en Render / Vercel  
+- Cómo sobrevivir a los bugs sin perder la cabeza 🤯
 
 <!-- Estadísticas -->
 <p align="center">
@@ -58,7 +70,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,mongodb,mysql,flutter,git,github,vscode,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,mongodb,flutter,git,github,vscode,linux,windows&perline=10" />
   </a>
 </p>
 
@@ -82,4 +94,5 @@
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=anioldev&icon=3&color=6" alt="visit count"/>
 </div>
+
 
