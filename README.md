@@ -22,8 +22,8 @@
 
 - 🎓 Estudiante con aptitudes de **desarrollo web y mobile**.
 - 💾 Me gusta trabajar con **MongoDB, React, Node.js, MySQL y PHP**.
-- 📱 También disfruto creando apps con **Flutter**.
-- 📚 Apasionado de seguir aprendiendo nuevas tecnologías.
+- 📱 También me gusta Flutter, por el parecido que tiene con JavaScript**.
+- 📚 Con ganas de seguir aprendiendo nuevas tecnologías.
 - 🎨 Fan de metodologías como **Scrum** y **Kanban**.
 
 ---
@@ -42,6 +42,22 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,mongodb,flutter,git,github,vscode,linux,windows&perline=8" />
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+  <i><b>GitHub Stats</b></i>
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anioldev&show_icons=true&theme=radical" alt="anioldev GitHub Stats" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anioldev&layout=compact&theme=radical" alt="anioldev Top Languages" width="350"/>
 </p>
 
 ---
