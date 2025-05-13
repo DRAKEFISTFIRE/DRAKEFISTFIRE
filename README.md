@@ -1,28 +1,12 @@
 # ✨ Hola 👋, soy <span style="color:#fca311;">Aniol</span> ✨
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
-  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FCA311&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!;Estudiante+web;Front+for+All,+All+for+Back" alt="Typing SVG" />
 </div>
 
 ---
 
-<!-- ✨ Frase inspiradora -->
-<div align="center">
-  <h3><i>💡 "La confusión es parte de programar 💻" 💡</i></h3>
-  <br>
-  <img src="https://media.giphy.com/media/l4FGpW6An10ChWLR6/giphy.gif" width="100px" />
-</div>
-
----
-
-<!-- 📖 Sobre mí -->
 ## 📖 Sobre mí
-
-<div align="center">
-  <img src="https://media.giphy.com/media/d2ZCkVJ8g9AkVsh7bi/giphy.gif" width="200px" />
-</div>
 
 - 🎓 Estudiante con aptitudes de **desarrollo web y mobile**.
 - 💾 Me gusta trabajar con **MongoDB, React, Node.js, MySQL y PHP**.
@@ -32,7 +16,6 @@
 
 ---
 
-<!-- 🚀 Actualmente -->
 ## 🚀 Actualmente
 
 - 🔭 Trabajando en la web de **la Colla Gegantera del Cor de Maria**.
@@ -42,12 +25,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
-  <i><b>GitHub Stats</b></i>
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
-</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -82,19 +59,10 @@ Una página web para una **colla gegantera**. Proyecto avanzado que utiliza tecn
 ## 📞 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aniol-rodriguez-530514295/" target="_blank">
-    <button style="background-color: #0077b5; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; border: none;">Conecta conmigo en LinkedIn</button>
-  </a>
-  <br><br>
-  <a href="mailto:aniol@example.com" target="_blank">
-    <button style="background-color: #fca311; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; border: none;">Envíame un correo</button>
+  <a href="https://www.linkedin.com/in/aniol-rodriguez-530514295/">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="40px">
   </a>
 </p>
 
 ---
 
-<!-- 🎉 Animación final -->
-<div align="center">
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300px" />
-  <br>
-</div>
