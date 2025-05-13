@@ -3,7 +3,7 @@
   <h1>✨ Hola 👋, soy <span style="color:#fca311;">Aniol</span> ✨</h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!;Desarrollador+web+y+mobile;Amante+del+código+y+los+retos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!;Estudiante+web+y+;Front for All+All for Back" alt="Typing SVG" />
 </div>
 
 ---
