@@ -1,6 +1,4 @@
 <!-- 📌 Presentación de Aniol -->
-![desarrollo](https://github.com/user-attachments/assets/35847bfb-5691-42f1-872a-7caa712a78b7)
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, soy Aniol</h1></summary>
@@ -20,23 +18,17 @@
 </div>
 
 <!-- Sobre mí -->
-- 🎓 Estudiante apasionado por el desarrollo web y mobile.
-- 💾 Me gusta cacharrear con **MongoDB, React, Node.js, MySQL y PHP**.
+- 🎓 Estudiante con aptitudes de desarrollo web.
+- 💾 Me gusta usar **MongoDB, React, Node.js, MySQL y PHP**.
 - 📱 También me mola **Flutter** para apps móviles.
-- 📚 Siempre aprendiendo cosas nuevas y montando stacks locos.
-- 🎨 Me flipa crear apps que funcionen bien y se vean top.
-- 📫 Si quieres charlar o colaborar: **aniol.dev@gmail.com**
+- 📚 Siempre aprendiendo cosas nuevas y con ganas de aprender.
+- 🎨 Me gusta seguir las metodologias como Scrum y Canban para el desarrollo de aplicaciones.
 
 <!-- Qué estoy haciendo -->
 ### 🚀 Actualmente
-- 🔭 Trabajando en proyectos con **React, Node.js y MongoDB**
-- 🌱 Aprendiendo a integrar **Flutter** con backend en Node
-- ☁️ Explorando servicios en **AWS** y **Render**
+- 🔭 Trabajando en proyectos con **React, Node.js y MongoDB, Terminando la web de la colla gegantera del Cor de Maria** 
+- 🌱 Aprendiendo a usar Flutter y haciendo cursos online para mejorar el aprendizaje.
 
-### 💬 Pregúntame sobre
-- React, Node, PHP, MongoDB, Flutter  
-- Deploy en Render / Vercel  
-- Cómo sobrevivir a los bugs sin perder la cabeza 🤯
 
 <!-- Estadísticas -->
 <p align="center">
