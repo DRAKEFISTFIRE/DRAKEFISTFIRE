@@ -1,18 +1,18 @@
-<!-- 📌 Presentación de Aniol -->
+# ✨ Hola 👋, soy <span style="color:#fca311;">Aniol</span> ✨
+
 <div align="center">
-  <h1>✨ Hola 👋, soy <span style="color:#fca311;">Aniol</span> ✨</h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
   <br>
-  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FCA311&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!;Estudiante+web;Front+for+All,+All+for+Back" alt="Typing SVG" />
 </div>
-
 
 ---
 
 <!-- ✨ Frase inspiradora -->
 <div align="center">
-  <h3>💡 <em>"La confusión es parte de programar 💻"</em> 💡</h3>
+  <h3><i>💡 "La confusión es parte de programar 💻" 💡</i></h3>
+  <br>
+  <img src="https://media.giphy.com/media/l4FGpW6An10ChWLR6/giphy.gif" width="100px" />
 </div>
 
 ---
@@ -20,9 +20,13 @@
 <!-- 📖 Sobre mí -->
 ## 📖 Sobre mí
 
+<div align="center">
+  <img src="https://media.giphy.com/media/d2ZCkVJ8g9AkVsh7bi/giphy.gif" width="200px" />
+</div>
+
 - 🎓 Estudiante con aptitudes de **desarrollo web y mobile**.
 - 💾 Me gusta trabajar con **MongoDB, React, Node.js, MySQL y PHP**.
-- 📱 También me gusta Flutter, por el parecido que tiene con JavaScript**.
+- 📱 También me gusta **Flutter**, por el parecido que tiene con JavaScript.
 - 📚 Con ganas de seguir aprendiendo nuevas tecnologías.
 - 🎨 Fan de metodologías como **Scrum** y **Kanban**.
 
@@ -47,15 +51,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAKEFISTFIRE&theme=radical" alt="GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKEFISTFIRE&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
-## 🚀 Actualmente
-
-- 🔭 Trabajando en la web de **la Colla Gegantera del Cor de Maria**.
-- 🌱 Aprendiendo **Flutter** y subiendo proyectos a GitHub.
-- ⚙️ Probando integraciones backend con **Node + MongoDB**.
+---
 
 ## 🛠️ Tecnologías que manejo
 
@@ -63,19 +65,19 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,mongodb,flutter,git,github,vscode,linux,windows&perline=8" />
 </p>
 
+---
+
 ## 📚 Proyectos
 
 ### 🎮 **Roll a Ball** - [Repositorio](https://github.com/DRAKEFISTFIRE/Roll-a-Ball)
 Un divertido juego 3D hecho con Unity. Explora la física de un juego básico mientras aprendes a manejar la física de la bola en un entorno 3D.
 
 ### 🌐 **Colla Gegantera Web** - [Repositorio](https://github.com/DRAKEFISTFIRE/Colla-gegantera-web-project)
-Una página web para una **colla gegantera** (grupo tradicional de Cataluña). Proyecto que utiliza tecnologías como **React**, **Node.js** y **MongoDB** para el desarrollo.
+Una página web para una **colla gegantera**. Proyecto avanzado que utiliza tecnologías como **React**, **Node.js** y **MongoDB** para el desarrollo web.
 
-## 📞 Conecta conmigo
 ---
 
-<!-- 📞 Contacto -->
-<h2 align="center">🤝 Conecta conmigo 🤝</h2>
+## 📞 Conecta conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aniol-rodriguez-530514295/">
@@ -90,6 +92,4 @@ Una página web para una **colla gegantera** (grupo tradicional de Cataluña). P
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300px" />
   <br>
 </div>
-
----
 
