@@ -8,7 +8,7 @@
 
 ## 📖 Sobre mí
 
-- 🎓 Estudiante con aptitudes de **desarrollo web y mobile**.
+- 🎓 Estudiante con aptitudes de **desarrollo web**.
 - 💾 Me gusta trabajar con **MongoDB, React, Node.js, MySQL y PHP**.
 - 📱 También me gusta **Flutter**, por el parecido que tiene con JavaScript.
 - 📚 Con ganas de seguir aprendiendo nuevas tecnologías.
