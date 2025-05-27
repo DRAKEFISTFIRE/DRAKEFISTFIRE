@@ -7,6 +7,10 @@
 
 ![imagen foto de perfil redes sociales profile elegante blanco y negro](https://github.com/user-attachments/assets/a4f93bf5-1fae-47f8-b036-1a20c97378d4)
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a4f93bf5-1fae-47f8-b036-1a20c97378d4" alt="imagen foto de perfil redes sociales profile elegante blanco y negro" />
+  <h2>Soy Aniol, Desarrollador Front-End / Back-End</h2>
+</div>
 ---
 
 ## 📖 Sobre mí
@@ -66,11 +70,6 @@ Una página web para una **colla gegantera**. Proyecto avanzado que utiliza tecn
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="40px">
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a4f93bf5-1fae-47f8-b036-1a20c97378d4" alt="imagen foto de perfil redes sociales profile elegante blanco y negro" />
-  <h2>Soy Aniol, Desarrollador Front-End / Back-End</h2>
-</div>
 
 
 ---
