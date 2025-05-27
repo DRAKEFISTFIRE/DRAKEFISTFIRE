@@ -79,85 +79,43 @@ Sitio web completo para una **colla gegantera**, construido con tecnologías mod
 
   <a href="https://www.linkedin.com/in/aniol-rodriguez-530514295/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <div style="
-      width: 70px; 
-      height: 70px; 
-      background-color: #0A66C2; 
-      border-radius: 15px; 
-      display: flex; 
-      align-items: center; 
-      justify-content: center; 
-      box-shadow: 0 8px 15px rgba(10, 102, 194, 0.5);
-      transition: transform 0.3s ease;
+      width: 80px;
+      height: 80px;
+      background-color: #0077B5;
+      border-radius: 18px;
+      box-shadow: 0 4px 12px rgb(0 119 181 / 0.4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
       cursor: pointer;
-      position: relative;
-    " 
-    onmouseover="this.style.transform='scale(1.1)'" 
-    onmouseout="this.style.transform='scale(1)'"
+    "
+    onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 24px rgb(0 119 181 / 0.6)';"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgb(0 119 181 / 0.4)';"
     >
-      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="32" alt="LinkedIn" />
-      <span style="
-        position: absolute; 
-        bottom: -28px; 
-        background: #0A66C2; 
-        color: white; 
-        font-size: 12px; 
-        padding: 2px 8px; 
-        border-radius: 6px; 
-        opacity: 0; 
-        pointer-events: none; 
-        transition: opacity 0.3s ease;
-        white-space: nowrap;
-        left: 50%;
-        transform: translateX(-50%);
-      ">
-        LinkedIn
-      </span>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="38" alt="LinkedIn" />
     </div>
   </a>
 
   <a href="https://www.instagram.com/aniolrodriguez_2005/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <div style="
-      width: 70px; 
-      height: 70px; 
+      width: 80px;
+      height: 80px;
       background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
-      border-radius: 15px; 
-      display: flex; 
-      align-items: center; 
-      justify-content: center; 
-      box-shadow: 0 8px 15px rgba(255, 105, 135, 0.6);
-      transition: transform 0.3s ease;
+      border-radius: 18px;
+      box-shadow: 0 4px 12px rgb(253 89 73 / 0.4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
       cursor: pointer;
-      position: relative;
     "
-    onmouseover="this.style.transform='scale(1.1)'" 
-    onmouseout="this.style.transform='scale(1)'"
+    onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 24px rgb(253 89 73 / 0.6)';"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgb(253 89 73 / 0.4)';"
     >
-      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="32" alt="Instagram" />
-      <span style="
-        position: absolute; 
-        bottom: -28px; 
-        background: #E1306C; 
-        color: white; 
-        font-size: 12px; 
-        padding: 2px 8px; 
-        border-radius: 6px; 
-        opacity: 0; 
-        pointer-events: none; 
-        transition: opacity 0.3s ease;
-        white-space: nowrap;
-        left: 50%;
-        transform: translateX(-50%);
-      ">
-        Instagram
-      </span>
+      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="38" alt="Instagram" />
     </div>
   </a>
 
 </div>
-
-<script>
-  // JavaScript para mostrar tooltip al pasar el ratón (GitHub no ejecuta JS en README, esto es para idea)
-  // En GitHub solo se verá la animació transform pero no tooltip
-</script>
-
 
