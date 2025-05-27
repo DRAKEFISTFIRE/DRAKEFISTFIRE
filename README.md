@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hola+soy+Aniol!;Desarrollador+Front-End+,+Desarrollador+Back-End;Front+for+All,+Back+for+one" alt="Typing SVG" />
-  <span style="color: #FFFFFF; font-size: 48px;">|</span>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hola+soy+Aniol!;Desarrollador+Front-End,+Desarrollador+Back-End;Front+for+All,+Back+for+one" alt="Typing SVG" />
+
 </div>
 
 ---
