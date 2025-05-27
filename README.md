@@ -1,8 +1,7 @@
 <div align="center">
 
-  <!-- Animación de texto con barra blanca -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FCA311&center=true&vCenter=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!;Estudiante+web;Front+for+All,+Back+for+one&pause=1000&repeat=true" alt="Typing SVG" />
-  <span style="color: #FFFFFF; font-size: 28px;">|</span>
+  <!-- Animación de texto con barra blanca incluida -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!+|;Estudiante+web+|;Front+for+All,+Back+for+one+|" alt="Typing SVG" />
 
 </div>
 
@@ -10,6 +9,7 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a4f93bf5-1fae-47f8-b036-1a20c97378d4" alt="imagen foto de perfil redes sociales profile elegante blanco y negro" width="160px" style="border-radius: 50%;" />
+  
   <h2 style="color: #FCA311;">Soy Aniol, Desarrollador Front-End / Back-End</h2>
 </div>
 
@@ -17,24 +17,22 @@
 
 ## 📖 Sobre mí
 
-- 🎓 Estudiante con aptitudes de **desarrollo web**.
-- 💾 Me gusta trabajar con **MongoDB, React, Node.js, MySQL y PHP**.
-- 📱 También me gusta **Flutter**, por su parecido con JavaScript.
-- 📚 Siempre con ganas de seguir aprendiendo nuevas tecnologías.
-- 🎨 Fan de metodologías como **Scrum** y **Kanban**.
+Hola! 👋 Me llamo **Aniol Rodríguez**, soy un estudiante y apasionado del desarrollo web tanto en **Front-End** como **Back-End**. Me encanta aprender nuevas tecnologías y trabajar en proyectos reales donde pueda poner en práctica mis conocimientos.
+
+Soy fan de las metodologías **Scrum** y **Kanban**, y disfruto colaborando en equipo, resolviendo problemas y buscando siempre una solución elegante y eficiente. Además, me interesa mucho el desarrollo móvil con **Flutter** y seguiré explorando todo lo relacionado con este mundo tech.
 
 ---
 
 ## 🚀 Actualmente
 
-- 📚 Estudiando **Grado Superior de Aplicaciones Web** en la **Escola Pia**.
-- 🔭 Trabajando en la web de **la Colla Gegantera del Cor de Maria**.
-- 🌱 Haciendo cursos online de diferentes lenguajes.
-- ⚙️ Probando integraciones backend con **Node + MongoDB**.
+- 📚 Estudiando **Grado Superior de Aplicaciones Web** en la **Escola Pia**
+- 🔭 Desarrollando la web de **la Colla Gegantera del Cor de Maria**
+- 🌱 Haciendo cursos online para seguir creciendo profesionalmente
+- ⚙️ Experimentando con **Node.js + MongoDB** para integraciones backend
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Mis estadísticas en GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -56,13 +54,13 @@
 
 ## 📚 Proyectos
 
-### 🎮 **Roll a Ball** - [Repositorio](https://github.com/DRAKEFISTFIRE/Roll-a-Ball)
+### 🎮 **Roll a Ball** – [Ver repositorio](https://github.com/DRAKEFISTFIRE/Roll-a-Ball)
 
-Un divertido juego 3D hecho con Unity, ideal para explorar la física básica en entornos 3D.
+Juego 3D sencillo hecho con Unity para aprender y experimentar con físicas en entornos 3D.
 
-### 🌐 **Colla Gegantera Web** - [Repositorio](https://github.com/DRAKEFISTFIRE/Colla-gegantera-web-project)
+### 🌐 **Colla Gegantera Web** – [Ver repositorio](https://github.com/DRAKEFISTFIRE/Colla-gegantera-web-project)
 
-Página web para una **colla gegantera**, usando **React**, **Node.js** y **MongoDB**.
+Página web para una **colla gegantera**, desarrollada con **React**, **Node.js** y **MongoDB**.
 
 ---
 
@@ -72,6 +70,12 @@ Página web para una **colla gegantera**, usando **React**, **Node.js** y **Mong
   <a href="https://www.linkedin.com/in/aniol-rodriguez-530514295/">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="40px">
   </a>
+  &nbsp;&nbsp;
+  <a href="[https://www.instagram.com/aniol.codes/](https://www.instagram.com/aniolrodriguez_2005?igsh=djBkaWQwN2xldThv)">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="40px">
+  </a>
 </p>
 
 ---
+
+
