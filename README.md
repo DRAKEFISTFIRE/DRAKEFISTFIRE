@@ -72,14 +72,16 @@ Sitio web completo para una **colla gegantera**, construido con tecnologías mod
 
 ## 📞 Conecta conmigo
 
-<p align="center" style="margin-top: 20px;">
+<p align="center">
   <a href="https://www.linkedin.com/in/aniol-rodriguez-530514295/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/aniolrodriguez_2005/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="40" alt="Instagram" />
   </a>
 </p>
+
 
 ---
 
