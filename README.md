@@ -1,7 +1,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
 
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!;Estudiante+web;Front+for+All,+Back+for+one" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hola+a+soy+Aniol!;Desarrollador+Front-End+,+Desarrollador+Back-End;Front+for+All,+Back+for+one" alt="Typing SVG" />
 
   <!-- Animación de texto -->
 
@@ -21,14 +21,14 @@
 
 ## 📖 Sobre mí
 
-Hola! 👋 Me llamo **Aniol Rodríguez**, soy un estudiante y apasionado del desarrollo web tanto en **Front-End** como **Back-End**. Me encanta aprender nuevas tecnologías y trabajar en proyectos reales donde pueda poner en práctica mis conocimientos.
+Hola! 👋 Me llamo **Aniol Rodríguez**, soy un estudiante actualmente buscando prácticas, me encanta el desarrollo web tanto en **Front-End** como **Back-End**. Me encanta aprender nuevas tecnologías y trabajar en proyectos reales donde pueda poner en práctica mis conocimientos. Trabajo mucho con JavaScript y intentando aprendiendo siempre bastante más!
 
-Soy fan de las metodologías **Scrum** y **Kanban**, y disfruto colaborando en equipo, resolviendo problemas y buscando siempre una solución elegante y eficiente. Además, me interesa mucho el desarrollo móvil con **Flutter** y seguiré explorando todo lo relacionado con este mundo tech.
+Soy fan de las metodologías **Scrum** y **Kanban**, y disfruto colaborando en equipo, resolviendo problemas y buscando siempre una solución elegante y eficiente. Creo que desarrollar las Hard y Soft skills para el futuro común y para uno mismo, las habilidades técnicas demuestran la capacidad de uno, y las Front como se desarrolla uno dentro del ambito de trabajo. Siempre habra cosas a pulir, y margen de mejora! Además, me interesa el desarrollo móvil con **Flutter** y seguiré explorando mejorando y estare siempre activamente en mis redes.
 
 ---
 
 ## 🚀 Actualmente
-
+- 📚 Buscando Empresa de **prácticas**
 - 📚 Estudiando **Grado Superior de Aplicaciones Web** en la **Escola Pia**
 - 🔭 Desarrollando la web de **la Colla Gegantera del Cor de Maria**
 - 🌱 Haciendo cursos online para seguir creciendo profesionalmente
@@ -50,33 +50,34 @@ Soy fan de las metodologías **Scrum** y **Kanban**, y disfruto colaborando en e
 
 ## 🛠️ Tecnologías que manejo
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nodejs,mongodb,flutter,mysql,git,github,vscode,linux,windows&perline=8" />
+<p align="center" style="margin-bottom: 30px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nodejs,mongodb,flutter,mysql,csharp,git,github,vscode,linux,windows&perline=9" alt="Tecnologías" />
 </p>
 
 ---
 
-## 📚 Proyectos
+## 📚 Proyectos Destacados
 
 ### 🎮 **Roll a Ball** – [Ver repositorio](https://github.com/DRAKEFISTFIRE/Roll-a-Ball)
 
-Juego 3D sencillo hecho con Unity para aprender y experimentar con físicas en entornos 3D.
+Un juego 3D sencillo creado con Unity, perfecto para aprender física y programación en entornos 3D. Ideal para principiantes que quieren entender las bases de la física aplicada a videojuegos.
+
+---
 
 ### 🌐 **Colla Gegantera Web** – [Ver repositorio](https://github.com/DRAKEFISTFIRE/Colla-gegantera-web-project)
 
-Página web para una **colla gegantera**, desarrollada con **React**, **Node.js** y **MongoDB**.
+Sitio web completo para una **colla gegantera**, construido con tecnologías modernas como **React**, **Node.js** y **MongoDB**. Proyecto real con integración frontend y backend.
 
 ---
 
 ## 📞 Conecta conmigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aniol-rodriguez-530514295/">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="40px">
+<p align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/aniol-rodriguez-530514295/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="[https://www.instagram.com/aniol.codes/](https://www.instagram.com/aniolrodriguez_2005?igsh=djBkaWQwN2xldThv)">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="40px">
+  <a href="https://www.instagram.com/aniolrodriguez_2005/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="40" alt="Instagram" />
   </a>
 </p>
 
