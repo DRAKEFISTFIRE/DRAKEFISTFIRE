@@ -4,13 +4,11 @@
 </div>
 ---
 
-
-![imagen foto de perfil redes sociales profile elegante blanco y negro](https://github.com/user-attachments/assets/a4f93bf5-1fae-47f8-b036-1a20c97378d4)
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a4f93bf5-1fae-47f8-b036-1a20c97378d4" alt="imagen foto de perfil redes sociales profile elegante blanco y negro" />
+  <img src="https://github.com/user-attachments/assets/a4f93bf5-1fae-47f8-b036-1a20c97378d4" alt="imagen foto de perfil redes sociales profile elegante blanco y negro" width="200px" />
   <h2>Soy Aniol, Desarrollador Front-End / Back-End</h2>
 </div>
+
 ---
 
 ## 📖 Sobre mí
