@@ -34,11 +34,29 @@ Soy fan de las metodologías **Scrum** y **Kanban**, y disfruto colaborando en e
 ## 📊 Mis estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- Estadísticas generales -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=radical" 
+    alt="Estadísticas de GitHub" 
+    style="margin-bottom: 20px;"
+  />
+
+  <!-- Racha de contribuciones -->
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAKEFISTFIRE&theme=radical" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DRAKEFISTFIRE&theme=radical" 
+    alt="Racha de contribuciones" 
+    style="margin-bottom: 20px;"
+  />
+
+  <!-- Lenguajes más usados -->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKEFISTFIRE&layout=compact&theme=radical" alt="Top Langs" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKEFISTFIRE&layout=compact&theme=radical" 
+    alt="Lenguajes más usados" 
+  />
+
 </div>
 
 ---
