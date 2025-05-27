@@ -1,8 +1,10 @@
 <div align="center">
 
   <!-- Animación de texto con barra blanca incluida -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!+|;Estudiante+web+|;Front+for+All,+Back+for+one+|" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!;Estudiante+web;Front+for+All,+Back+for+one" alt="Typing SVG" />
 
+  <!-- Barra fija al lado del texto -->
+  <span><strong><font color="#FFFFFF" size="6">|</font></strong></span>
 </div>
 
 ---
