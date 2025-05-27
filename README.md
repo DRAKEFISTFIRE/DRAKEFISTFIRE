@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a4f93bf5-1fae-47f8-b036-1a20c97378d4" alt="imagen foto de perfil redes sociales profile elegante blanco y negro" width="160px" style="border-radius: 50%;" />
+  <img src="https://github.com/user-attachments/assets/4077611b-ae76-4680-baea-382f0e2bd1e2" alt="Explora Pincelada Manuscrito Foto Portada de Facebook" width="450px" />
   
   <h2 style="color: #FCA311;">Soy Aniol, Desarrollador Front-End / Back-End</h2>
 </div>
