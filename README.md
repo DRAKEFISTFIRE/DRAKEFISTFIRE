@@ -76,47 +76,58 @@ Sitio web completo para una **colla gegantera**, construido con tecnologías mod
 
 ## 📞 Conecta conmigo
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; margin-top: 20px;">
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/aniol-rodriguez-530514295/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <div style="
-      width: 80px;
-      height: 80px;
-      background-color: #0077B5;
-      border-radius: 18px;
-      box-shadow: 0 4px 12px rgb(0 119 181 / 0.4);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-      cursor: pointer;
-    "
-    onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 24px rgb(0 119 181 / 0.6)';"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgb(0 119 181 / 0.4)';"
-    >
-      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="38" alt="LinkedIn" />
-    </div>
-  </a>
+  <div style="
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 20px;
+  ">
 
-  <a href="https://www.instagram.com/aniolrodriguez_2005/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <div style="
-      width: 80px;
-      height: 80px;
-      background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
-      border-radius: 18px;
-      box-shadow: 0 4px 12px rgb(253 89 73 / 0.4);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-      cursor: pointer;
-    "
-    onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 24px rgb(253 89 73 / 0.6)';"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgb(253 89 73 / 0.4)';"
-    >
-      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="38" alt="Instagram" />
-    </div>
-  </a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/aniol-rodriguez-530514295/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+      <div style="
+        width: 80px;
+        height: 80px;
+        background-color: #0077B5;
+        border-radius: 18px;
+        box-shadow: 0 4px 12px rgba(0,119,181,0.4);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.3s ease;
+        cursor: pointer;
+      "
+      onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 24px rgba(0,119,181,0.6)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,119,181,0.4)';"
+      >
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="38" alt="LinkedIn" />
+      </div>
+    </a>
+
+    <!-- Instagram -->
+    <a href="https://www.instagram.com/aniolrodriguez_2005/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+      <div style="
+        width: 80px;
+        height: 80px;
+        background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+        border-radius: 18px;
+        box-shadow: 0 4px 12px rgba(253,89,73,0.4);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.3s ease;
+        cursor: pointer;
+      "
+      onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 24px rgba(253,89,73,0.6)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(253,89,73,0.4)';"
+      >
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="38" alt="Instagram" />
+      </div>
+    </a>
+
+  </div>
 
 </div>
-
