@@ -1,12 +1,16 @@
-
 <div align="center">
+
+  <!-- Animación de texto con barra blanca -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FCA311&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!;Estudiante+web;Front+for+All,+Back+for+one" alt="Typing SVG" />
+  <span style="color: #FFFFFF; font-size: 28px;">|</span>
+
 </div>
+
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a4f93bf5-1fae-47f8-b036-1a20c97378d4" alt="imagen foto de perfil redes sociales profile elegante blanco y negro" width="200px" />
-  <h2>Soy Aniol, Desarrollador Front-End / Back-End</h2>
+  <img src="https://github.com/user-attachments/assets/a4f93bf5-1fae-47f8-b036-1a20c97378d4" alt="imagen foto de perfil redes sociales profile elegante blanco y negro" width="160px" style="border-radius: 50%;" />
+  <h2 style="color: #FCA311;">Soy Aniol, Desarrollador Front-End / Back-End</h2>
 </div>
 
 ---
@@ -15,16 +19,17 @@
 
 - 🎓 Estudiante con aptitudes de **desarrollo web**.
 - 💾 Me gusta trabajar con **MongoDB, React, Node.js, MySQL y PHP**.
-- 📱 También me gusta **Flutter**, por el parecido que tiene con JavaScript.
-- 📚 Con ganas de seguir aprendiendo nuevas tecnologías.
+- 📱 También me gusta **Flutter**, por su parecido con JavaScript.
+- 📚 Siempre con ganas de seguir aprendiendo nuevas tecnologías.
 - 🎨 Fan de metodologías como **Scrum** y **Kanban**.
 
 ---
 
 ## 🚀 Actualmente
+
 - 📚 Estudiando **Grado Superior de Aplicaciones Web** en la **Escola Pia**.
 - 🔭 Trabajando en la web de **la Colla Gegantera del Cor de Maria**.
-- 🌱 Haciendo cursos online de diferentes lenguajes para aprender mucho más.
+- 🌱 Haciendo cursos online de diferentes lenguajes.
 - ⚙️ Probando integraciones backend con **Node + MongoDB**.
 
 ---
@@ -53,11 +58,11 @@
 
 ### 🎮 **Roll a Ball** - [Repositorio](https://github.com/DRAKEFISTFIRE/Roll-a-Ball)
 
-Un divertido juego 3D hecho con Unity. Explora la física de un juego básico mientras aprendes a manejar la física de la bola en un entorno 3D.
+Un divertido juego 3D hecho con Unity, ideal para explorar la física básica en entornos 3D.
 
 ### 🌐 **Colla Gegantera Web** - [Repositorio](https://github.com/DRAKEFISTFIRE/Colla-gegantera-web-project)
 
-Una página web para una **colla gegantera**. Proyecto avanzado que utiliza tecnologías como **React**, **Node.js** y **MongoDB** para el desarrollo web.
+Página web para una **colla gegantera**, usando **React**, **Node.js** y **MongoDB**.
 
 ---
 
@@ -69,6 +74,4 @@ Una página web para una **colla gegantera**. Proyecto avanzado que utiliza tecn
   </a>
 </p>
 
-
 ---
-
