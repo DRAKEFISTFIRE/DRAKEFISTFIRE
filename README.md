@@ -1,6 +1,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!;Estudiante+web;Front+for+All,+Back+for+one" alt="Typing SVG" />
+
+![Explora Pincelada Manuscrito Foto Portada de Facebook](https://github.com/user-attachments/assets/4077611b-ae76-4680-baea-382f0e2bd1e2)
 
   <!-- Animación de texto -->
 
