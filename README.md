@@ -1,8 +1,11 @@
-# ✨ Hola 👋, soy <span style="color:#fca311;">Aniol</span> ✨
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FCA311&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!;Estudiante+web;Front+for+All,+Back+for+one" alt="Typing SVG" />
 </div>
+---
+
+
+![imagen foto de perfil redes sociales profile elegante blanco y negro](https://github.com/user-attachments/assets/a4f93bf5-1fae-47f8-b036-1a20c97378d4)
 
 ---
 
@@ -63,6 +66,12 @@ Una página web para una **colla gegantera**. Proyecto avanzado que utiliza tecn
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="40px">
   </a>
 </p>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a4f93bf5-1fae-47f8-b036-1a20c97378d4" alt="imagen foto de perfil redes sociales profile elegante blanco y negro" />
+  <h2>Soy Aniol, Desarrollador Front-End / Back-End</h2>
+</div>
+
 
 ---
 
