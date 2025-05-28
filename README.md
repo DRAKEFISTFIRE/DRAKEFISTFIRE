@@ -8,7 +8,7 @@
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/4077611b-ae76-4680-baea-382f0e2bd1e2" alt="Foto perfil elegante" width="700px" style="border-radius: 50%; display: block; margin: 0 auto;" />
-  <h2 style="color: #FCA311; margin-top: 15px;">Soy Aniol, Desarrollador Front-End / Back-End</h2>
+  <h2 style="color: #FCA311; margin-top: 15px;">Soy Aniol, Estudiante y Desarrollador Front-End / Back-End</h2>
 </div>
 
 ---
