@@ -66,6 +66,10 @@ Soy fan de las metodologías **Scrum** y **Kanban**, y disfruto colaborando en e
 
 Un juego 3D sencillo creado con Unity, perfecto para aprender física y programación en entornos 3D. Ideal para principiantes que quieren entender las bases de la física aplicada a videojuegos.
 
+
+![pilota](https://github.com/user-attachments/assets/8e61462b-6b45-42ba-9804-4ecca84142b6)
+
+
 ---
 
 ### 🌐 [Colla Gegantera Web](https://github.com/DRAKEFISTFIRE/Colla-gegantera-web-project)
