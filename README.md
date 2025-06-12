@@ -1,8 +1,6 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hola+soy+Aniol!;Front+for+All,+Back+for+one" alt="Typing SVG" />
 
-git rev-list --all --count
-
 </div>
 
 ---
@@ -31,6 +29,29 @@ Soy fan de las metodologías **Scrum** y **Kanban**, y disfruto colaborando en e
 - ⚙️ Experimentando con **Node.js + MongoDB** en backend.
 
 ---
+## 📊 Mis estadísticas en GitHub
+
+<div align="center">
+
+| 📈 Estadísticas | 🔥 Racha de contribuciones | 📝 Lenguajes más usados |
+|:---------------:|:--------------------------:|:-----------------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAKEFISTFIRE&theme=radical" alt="Racha de contribuciones"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKEFISTFIRE&layout=compact&theme=radical" alt="Lenguajes más usados"/> |
+
+</div>
+
+---
+
+## 📈 Estadísticas reales (actualizadas a Junio 2025)
+
+- 🔥 **Commits totales (públicos + privados):** `143`
+- ⭐ **Repositorios con estrellas:** `1`
+- 📝 **Pull Requests:** `1`
+- 🐛 **Issues:** `3`
+- 📦 **Repositorios contribuidos (último año):** `1`
+
+
+
+
 
 ## 📊 Mis estadísticas en GitHub
 
