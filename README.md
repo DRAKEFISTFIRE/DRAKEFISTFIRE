@@ -74,5 +74,30 @@ Sitio web completo para una **colla gegantera**, construido con tecnologías mod
 
 ---
 
+### 👊 [TrapLife](https://github.com/DRAKEFISTFIRE/TrapLife)
+
+¡Bienvenidos a la web de nuestro proyecto! Esta plataforma ha sido diseñada para ofrecer una experiencia intuitiva, rápida y funcional, adaptándose a las necesidades de nuestros usuarios. Aquí podrás encontrar todas las funcionalidades clave que permiten interactuar de manera eficiente y efectiva con el sistema.
+
+La web está desarrollada con tecnologías modernas, asegurando una navegación fluida y accesible desde cualquier dispositivo. Nuestro objetivo es brindar un entorno amigable y confiable para que cada usuario pueda aprovechar al máximo todas las herramientas disponibles. Siendo una web para un servidor de RolPlay de Gta.
+
+Agradecimientos especiales a AlekCaritgDev por su colaboración en la creación y mejora de esta web.
+
+Desarrolladores:
+
+DRAKEFISTFIRE
+
+AlekCaritgDev
+
+
+![image](https://github.com/user-attachments/assets/46cb4764-a82d-4fe7-ae57-efd118e265ee)
+
+---
+
+
+
+Link del video:
+https://drive.google.com/file/d/1-Cmm2PgHpUxMoVpSzgevvZz7L_10iTft/view?usp=sharing
+
+
 📞 Conecta conmigo
 <table> <tr> <td align="center"> <a href="https://www.linkedin.com/in/aniol-rodriguez-530514295/" target="_blank"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn" width="60" height="60" /> <br /> <sub><b>LinkedIn</b></sub> </a> </td> <td align="center"> <a href="https://www.instagram.com/aniolrodriguez_2005/" target="_blank"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" alt="Instagram" width="60" height="60" /> <br /> <sub><b>Instagram</b></sub> </a> </td> </tr> </table>
