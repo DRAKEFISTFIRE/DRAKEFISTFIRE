@@ -72,6 +72,14 @@ Un juego 3D sencillo creado con Unity, perfecto para aprender física y programa
 
 Sitio web completo para una **colla gegantera**, construido con tecnologías modernas como **React**, **Node.js** y **MongoDB**. Proyecto real con integración frontend y backend.
 
+Teniendo integraciones en las que el usuario puede escribir en un chat general, se pueden ver los músicos de la colla, sus portadores, y fiestas tradicionales entre otras
+
+secciones interesantes de la web.
+
+
+![image](https://github.com/user-attachments/assets/b3b11a8f-6a71-40b5-b083-76b0a2eb589a)
+
+
 ---
 
 ### 👊 [TrapLife](https://github.com/DRAKEFISTFIRE/TrapLife)
@@ -93,10 +101,6 @@ AlekCaritgDev
 
 ---
 
-
-
-Link del video:
-https://drive.google.com/file/d/1-Cmm2PgHpUxMoVpSzgevvZz7L_10iTft/view?usp=sharing
 
 
 📞 Conecta conmigo
