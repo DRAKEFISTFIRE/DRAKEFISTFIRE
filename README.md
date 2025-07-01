@@ -22,7 +22,7 @@ Soy fan de las metodologías **Scrum** y **Kanban**, y disfruto colaborando en e
 
 ## 🚀 Actualmente
 
-- 🎯 Buscando empresa para **prácticas profesionales**.
+- 🎯 Buscando en una empresa.
 - 📚 Estudiando **Grado Superior de Aplicaciones Web** en la **Escola Pia**.
 - 🔧 Desarrollando la web de **la Colla Gegantera del Cor de Maria**.
 - 🌱 Realizando cursos online para seguir mejorando.
