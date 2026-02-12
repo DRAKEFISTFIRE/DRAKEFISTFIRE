@@ -6,16 +6,13 @@
 ---
 
 <div style="text-align: center;">
-  <img 
-    src="https://github.com/user-attachments/assets/4799aff2-cfba-42fe-9564-b612727061b9" 
-    alt="Foto perfil elegante" 
-    width="250" 
-    height="250"
-    style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
-  />
-  <h2 style="color: #FCA311; margin-top: 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    Soy Aniol, Estudiante y Desarrollador Front-End / Back-End
-  </h2>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4799aff2-cfba-42fe-9564-b612727061b9" width="200" height="200" alt="Foto perfil elegante">
+</p>
+<p align="center">
+  <b>Soy Aniol, Estudiante y Desarrollador Front-End / Back-End</b>
+</p>
+
 </div>
 
 
