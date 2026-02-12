@@ -44,8 +44,7 @@ Soy fan de las metodologías **Scrum** y **Kanban**, y disfruto colaborando en e
 
 | 📈 Estadísticas | 🔥 Racha de contribuciones | 📝 Lenguajes más usados |
 |:---------------:|:--------------------------:|:-----------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&count_private=true&theme=radical&hide_title=false&hide_border=false&include_all_commits=true" alt="Estadísticas de GitHub" />
- | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAKEFISTFIRE&theme=radical&hide_border=false&width=280" alt="Racha de contribuciones"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKEFISTFIRE&layout=compact&theme=radical&hide_border=false&width=280" alt="Lenguajes más usados"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=radical&hide_border=false&count_private=true&width=280" alt="Estadísticas de GitHub"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAKEFISTFIRE&theme=radical&hide_border=false&width=280" alt="Racha de contribuciones"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKEFISTFIRE&layout=compact&theme=radical&hide_border=false&width=280" alt="Lenguajes más usados"/> |
 
 </div>
 
