@@ -7,14 +7,15 @@
 ![profile-image](https://github.com/user-attachments/assets/185e62ce-265e-4895-81dd-8d43ee6211ae)
 
 
-<div align="center" style="margin-top: 20px;">
-  <img 
-    src="https://github.com/user-attachments/assets/185e62ce-265e-4895-81dd-8d43ee6211ae" 
-    alt="Foto de perfil" 
-    width="200" 
-    height="200" 
-    style="border-radius: 50%; border: 5px solid #FCA311; object-fit: cover; display: block; margin: 0 auto;" 
-  />
+<div align="center">
+  <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; border: 5px solid #FCA311; display: inline-block;">
+    <img 
+      src="https://github.com/user-attachments/assets/185e62ce-265e-4895-81dd-8d43ee6211ae" 
+      alt="Foto de perfil" 
+      width="200" 
+      height="200"
+    />
+  </div>
   <h2 style="color: #FCA311; margin-top: 15px;">
     Soy Aniol, Estudiante y Desarrollador Front-End / Back-End
   </h2>
