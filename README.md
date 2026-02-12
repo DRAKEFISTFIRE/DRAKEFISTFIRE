@@ -9,16 +9,11 @@
 
 <div align="center">
   <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; border: 5px solid #FCA311; display: inline-block;">
-    <img 
-      src="https://github.com/user-attachments/assets/185e62ce-265e-4895-81dd-8d43ee6211ae" 
-      alt="Foto de perfil" 
-      width="200" 
-      height="200"
-    />
-  </div>
-  <h2 style="color: #FCA311; margin-top: 15px;">
+  
+<h2 style="color: #FCA311; margin-top: 15px; font-size: 36px;">
     Soy Aniol, Estudiante y Desarrollador Front-End / Back-End
-  </h2>
+</h2>
+
 </div>
 
 
