@@ -7,15 +7,7 @@
 ![IMG-20240820-WA0021 (1)](https://github.com/user-attachments/assets/f4530512-6599-4c13-ab7a-ae0396dd7120)
 
 
-<div style="text-align: center;">
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f4530512-6599-4c13-ab7a-ae0396dd7120" width="200" height="200" alt="Foto perfil elegante">
-</p>
-<p align="center">
-  <b>Soy Aniol, Estudiante y Desarrollador Front-End / Back-End</b>
-</p>
-
-</div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/f4530512-6599-4c13-ab7a-ae0396dd7120" alt="Foto perfil elegante" width="700px" style="border-radius: 50%; display: block; margin: 0 auto;" /> <h2 style="color: #FCA311; margin-top: 15px;">Soy Aniol, Estudiante y Desarrollador Front-End / Back-End</h2> </div>
 
 
 ---
