@@ -7,20 +7,19 @@
 ![profile-image](https://github.com/user-attachments/assets/185e62ce-265e-4895-81dd-8d43ee6211ae)
 
 
-<div align="center">
-  <!-- Foto de perfil circular -->
+<div align="center" style="margin-top: 20px;">
   <img 
     src="https://github.com/user-attachments/assets/185e62ce-265e-4895-81dd-8d43ee6211ae" 
     alt="Foto de perfil" 
-    width="200px" 
-    style="border-radius: 50%; display: block; margin: 0 auto; border: 4px solid #FCA311;" 
+    width="200" 
+    height="200" 
+    style="border-radius: 50%; border: 5px solid #FCA311; object-fit: cover; display: block; margin: 0 auto;" 
   />
-
-  <!-- Texto de presentación -->
   <h2 style="color: #FCA311; margin-top: 15px;">
     Soy Aniol, Estudiante y Desarrollador Front-End / Back-End
   </h2>
 </div>
+
 
 
 ---
