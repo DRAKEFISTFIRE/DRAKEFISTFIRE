@@ -5,8 +5,7 @@
 
 ---
 
-<div align="center">![profile-image](https://github.com/user-attachments/assets/4799aff2-cfba-42fe-9564-b612727061b9)
-
+<div align="center">
 <img src="https://github.com/user-attachments/assets/4799aff2-cfba-42fe-9564-b612727061b9" alt="Foto perfil elegante" width="700px" style="border-radius: 50%; display: block; margin: 0 auto;" />
   <h2 style="color: #FCA311; margin-top: 15px;">Soy Aniol, Estudiante y Desarrollador Front-End / Back-End</h2>
 </div>
