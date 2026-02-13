@@ -29,29 +29,15 @@ Soy fan de las metodologías **Scrum** y **Kanban**, y disfruto colaborando en e
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DRAKEFISTFIRE&theme=tokyonight" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=tokyonight" width="100%"/>
+<br><br>
 
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAKEFISTFIRE&theme=tokyonight" width="100%"/>
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKEFISTFIRE&layout=compact&theme=tokyonight" width="100%"/>
-
-</td>
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DRAKEFISTFIRE&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DRAKEFISTFIRE&theme=tokyonight&utcOffset=1" width="49%" />
 
 </div>
+
 
 
 
