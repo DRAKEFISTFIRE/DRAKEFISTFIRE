@@ -29,13 +29,22 @@ Soy fan de las metodologías **Scrum** y **Kanban**, y disfruto colaborando en e
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DRAKEFISTFIRE&theme=tokyonight&hide_border=true)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=DRAKEFISTFIRE&theme=tokyonight&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKEFISTFIRE&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-![Aniol's GitHub stats](https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKEFISTFIRE&layout=compact&theme=tokyonight&hide_border=true)
-/>|
 </div>
+
 
 
 ---
