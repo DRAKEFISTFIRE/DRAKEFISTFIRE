@@ -29,17 +29,12 @@ Soy fan de las metodologías **Scrum** y **Kanban**, y disfruto colaborando en e
 
 <div align="center">
 
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
+![GitHub Streak](https://streak-stats.demolab.com?user=DRAKEFISTFIRE&theme=tokyonight&hide_border=true)
 
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
+![Aniol's GitHub stats](https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=tokyonight&hide_border=true)
 
-| Star Geographic Distribution | Star History |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKEFISTFIRE&layout=compact&theme=tokyonight&hide_border=true)
+/>|
 </div>
 
 
