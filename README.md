@@ -30,20 +30,29 @@ Soy fan de las metodologías **Scrum** y **Kanban**, y disfruto colaborando en e
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=DRAKEFISTFIRE&theme=tokyonight&hide_border=true" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKEFISTFIRE&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DRAKEFISTFIRE&show_icons=true&theme=tokyonight" width="100%"/>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DRAKEFISTFIRE&theme=tokyonight" width="100%"/>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKEFISTFIRE&layout=compact&theme=tokyonight" width="100%"/>
+
+</td>
+</tr>
 </table>
 
 </div>
+
 
 
 
