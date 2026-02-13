@@ -4,17 +4,8 @@
 </div>
 
 ---
-![profile-image](https://github.com/user-attachments/assets/185e62ce-265e-4895-81dd-8d43ee6211ae)
 
-
-<div align="center">
-  <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; border: 5px solid #FCA311; display: inline-block;">
-  
-<h2 style="color: #FCA311; margin-top: 15px; font-size: 36px;">
-    Soy Aniol, Estudiante y Desarrollador Front-End / Back-End
-</h2>
-
-</div>
+<img width="6912" height="3456" alt="Soy Aniol, Estudiante y Desarrollador Front-End  Back-End" src="https://github.com/user-attachments/assets/49479319-2695-43a1-9e94-3c3e8ae9cd35" />
 
 
 
